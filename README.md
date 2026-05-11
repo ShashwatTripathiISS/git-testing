@@ -1,4 +1,4 @@
 # git-testing
 Test repo to try different git scenarios
 
-Init code added in the main branch.
+Init code added in the rc branch.
